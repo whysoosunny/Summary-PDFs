@@ -1,1 +1,0 @@
-AI-powered PDF summarization with multilingual output, structured section summaries, and shareable reading pages.
