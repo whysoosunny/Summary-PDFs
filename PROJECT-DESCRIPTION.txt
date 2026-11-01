@@ -1,0 +1,1 @@
+Summary PDF is an AI-powered document summarization application with PDF uploads, structured section summaries, language selection, and shareable reading pages. Maintained by Sunny Kumar.
