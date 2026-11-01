@@ -65,8 +65,8 @@ export const HomeLandingDrop = ({
                 if (!file) return;
                 if (file.size > MAX_PDF_UPLOAD_BYTES) {
                   toast({
-                    title: "📁 File Too Large",
-                    description: "⚠️ File size must be less than 15MB",
+                    title: "File too large",
+                    description: "Choose a PDF of 15 MB or smaller.",
                   });
                   return;
                 }
